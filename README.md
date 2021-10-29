@@ -1,7 +1,6 @@
-- 👋 
-- 👀 
-- 🌱 
-- 📫 How to reach me t@6664.ru
+👋👀🌱📫 
+Tel: +79017143889
+How to reach me t@6664.ru
 
 <!---
 TheLeirby/TheLeirby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
