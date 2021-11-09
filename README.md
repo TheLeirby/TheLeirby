@@ -1,4 +1,6 @@
-### Привет! Меня зовут Василий.  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Привет! Меня зовут Василий.  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">   Hi! My name is Vasiliy. 
+
+
 
 <img align="left" alt="tel:+79154213533" width="22px"  src="https://img.icons8.com/ios-glyphs/30/000000/phone--v1.png"/> +79017143889 
 
@@ -6,7 +8,10 @@
 
 <img align="left" width="22px"   src="https://img.icons8.com/ios/50/000000/email-sign.png"/>  t@6664.ru
 
-
+<a href="https://discordapp.com/users/leirby#2118">
+<img src="https://img.icons8.com/ios-filled/50/000000/discord-logo.png"/>
+ </a>
+ 
 <a href="https://vk.com/404">
   <img align="left" alt="VKontakte" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
 </a>
